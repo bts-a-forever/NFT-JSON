@@ -1,1 +1,6 @@
-
+{
+  "name": "质押NFT",
+  "description": "质押NFT是REI Fans 在REI Network 上发的第四个NFT，凡是给REI Fans 第一季度投票超过2万票的地址可以获得这枚NFT.",
+  "symbol": "Staking Fans 01",
+  "image": "https://bafybeigtpa7feanb6imc2nu4wtmp2s32ac2iov2gobc7ktct7zt7uhlh7e.ipfs.4everland.io/"
+}
